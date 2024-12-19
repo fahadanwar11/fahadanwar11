@@ -1,10 +1,10 @@
 ## Hello👋 I'm Fahad Anwar👨‍💻
 
-A well-qualified Frontend Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease.Additionally, I bring valuable experience in developing Chrome extensions. Collaborative team player with excellent technical abilities offering 2 years of related experience.
+A well-qualified MERN Stack and NextJs Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Additionally, I bring valuable experience in developing MVP for startups such as RevoHub, We Women Care, Noble Ai and more. Collaborative team player with excellent technical abilities offering 3 years of related experience.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/M-Mubashir674/)
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/muhammad-mubashir674/)
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadmubashir674@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/fahadanwar11/)
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/fahad-anwar-2989661ab/)
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadanwar363@gmail.com)
 
 ### Currently I am working with ...
 
@@ -13,6 +13,7 @@ A well-qualified Frontend Developer is familiar with a wide range of programming
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Expressjs" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Expressjs" width="40" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/nextjs-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
