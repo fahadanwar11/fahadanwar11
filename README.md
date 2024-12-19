@@ -35,8 +35,7 @@ A well-qualified MERN Stack and NextJs Developer is familiar with a wide range o
 ### Project Management tools
 <a href="" title="Trello" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Azure" width="30" height="30"/></a>&nbsp;&nbsp;
 
-<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg
-" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### You can also find me on ...
 
